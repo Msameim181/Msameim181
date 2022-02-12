@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋
 
-My name is Mohammad Mahdi, But I perfer Mahdi or Jack :wink:
+My name is Mohammad Mahdi, But I perfer Mahdi or Jack :wink:.
 
 I'm a UX strategist, data scientist, and image processing specialist. I really love to solve problems and make big dreams more real.
 

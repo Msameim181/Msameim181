@@ -20,8 +20,8 @@ My name is Mohammad Mahdi, But I perfer Mahdi or Jack :wink:
 I'm a UX strategist, data scientist, and image processing specialist. I really love to solve problems and make big dreams more real.
 
 As it should be, I'm a full-time learner and hungry to learn more, experience more. So feel free to contact me, let's have a chat with a cup of tea. 
-As they said 
-> "Let's make it real what is more like dreams."
+As they said:
+>> "Let's make it real what is more like dreams."
 
 Get in touch with me:
 - [LinkedIn](https://www.linkedin.com/in/msameim181/)

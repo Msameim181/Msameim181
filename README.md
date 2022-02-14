@@ -28,8 +28,8 @@ Get in touch with me:
 - [Mail](mailto:9259samei@gmail.com) 
 - [Twitter](https://twitter.com/msameim181) 
 - [Spotify](https://open.spotify.com/user/mohmahsamei7899)
+- [EF Standard English Test (EF SET)](https://www.efset.org/cert/HPPME3): EF SET English Certificate 76/100 (C2 Proficient)
 
-- [EF Standard English Test (EF SET)](https://www.efset.org/cert/HPPME3)
 
 Or [Create an Issue.](https://github.com/Msameim181/Msameim181/issues)
 

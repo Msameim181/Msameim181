@@ -29,6 +29,8 @@ Get in touch with me:
 - [Mail](mailto:9259samei@gmail.com) 
 - [Twitter](https://twitter.com/msameim181) 
 - [Spotify](https://open.spotify.com/user/mohmahsamei7899)
+- [Instagram](https://www.instagram.com/msameim181/)
+- [Telegram](https://t.me/Msameim181)
 
 
 

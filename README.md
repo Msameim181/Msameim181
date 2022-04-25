@@ -37,6 +37,8 @@ As they said:
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
+[![wakatime](https://wakatime.com/badge/user/c7ff964e-d019-499f-9ce9-788d8ec030ce.svg)](https://wakatime.com/@c7ff964e-d019-499f-9ce9-788d8ec030ce)
+
 Get in touch with me: 
 - [LinkedIn](https://www.linkedin.com/in/msameim181/)
 - [Mail](mailto:9259samei@gmail.com) 
@@ -48,3 +50,5 @@ Get in touch with me:
 Or [Create an Issue.](https://github.com/Msameim181/Msameim181/issues)
 
 [![Mohammad Mahdi's github stats](https://github-readme-stats.vercel.app/api?username=msameim181&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) <!-- wi*quL3fcV --> [![Mohammad Mahdi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msameim181&hide=html&layout=compact&line_height=51&langs_count=9&exclude_repo=comp426,Redventures-Movie-Quotes&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+

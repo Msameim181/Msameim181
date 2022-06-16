@@ -26,16 +26,17 @@ As they said:
 
 #### I Can Work With:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
-
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
 
 [![wakatime](https://wakatime.com/badge/user/c7ff964e-d019-499f-9ce9-788d8ec030ce.svg)](https://wakatime.com/@c7ff964e-d019-499f-9ce9-788d8ec030ce)
 

@@ -38,18 +38,16 @@ As they said:
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
 
-[![wakatime](https://wakatime.com/badge/user/c7ff964e-d019-499f-9ce9-788d8ec030ce.svg)](https://wakatime.com/@c7ff964e-d019-499f-9ce9-788d8ec030ce)
-
 Get in touch with me: 
-- [LinkedIn](https://www.linkedin.com/in/msameim181/)
 - [Mail](mailto:9259samei@gmail.com) 
+- [LinkedIn](https://www.linkedin.com/in/msameim181/)
 - [Twitter](https://twitter.com/msameim181)
-- [Spotify](https://open.spotify.com/user/mohmahsamei7899)
-- [Instagram](https://www.instagram.com/msameim181/)
 - [Telegram](https://t.me/Msameim181)
-
-Or [Create an Issue.](https://github.com/Msameim181/Msameim181/issues)
-
-[![Mohammad Mahdi's github stats](https://github-readme-stats.vercel.app/api?username=msameim181&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) <!-- wi*quL3fcV --> [![Mohammad Mahdi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msameim181&hide=html&layout=compact&line_height=51&langs_count=9&exclude_repo=comp426,Redventures-Movie-Quotes&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+- [Spotify](https://open.spotify.com/user/mohmahsamei7899)
 
 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=msameim181&theme=github_dark&count_private=true&show_icons=true&hide_rank=false" alt="Mohammad Mahdi's github stats" /> <br/>
+  
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msameim181&theme=github_dark&hide=html&layout=compact&line_height=51&langs_count=9&exclude_repo=comp426,Redventures-Movie-Quotes&card_width=445" alt="Mohammad Mahdi's Top Langs" />
+</p> -->

@@ -21,7 +21,7 @@ As it should be, I'm a full-time learner and hungry to learn more, experience mo
 
 So feel free to contact me, let's have a chat with a cup of tea. 
 
-Get in touch with me: 
+**Get in touch with me:**
 - [Mail](mailto:9259samei@gmail.com) 
 - [LinkedIn](https://www.linkedin.com/in/msameim181/)
 - [Twitter](https://twitter.com/msameim181)

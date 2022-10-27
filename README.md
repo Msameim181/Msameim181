@@ -15,7 +15,7 @@ As it should be, I'm a full-time learner and hungry to learn more, experience mo
 > "Let's make it real what is more like dreams."
 
 #### My Skills are:
- - Python, PyTorch, OpenCV, RestAPI, TensorFlow
+ - Python, PyTorch, OpenCV, RestAPI, FastAPI, TensorFlow
  - Linux, Docker, Git
  - And some Management skills
 

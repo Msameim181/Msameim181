@@ -40,8 +40,6 @@ Welcome to my GitHub! I'm a **Lead Back-end Developer** and **DevOps Engineer** 
 ## 🌐 Let's Connect
 - **Website**: [msameim181.github.io](https://msameim181.github.io/)
 - **LinkedIn**: [linkedin.com/in/msameim181](https://www.linkedin.com/in/msameim181/)
-- **Email**: 9259samei@gmail.com
-- **Twitter**: [twitter.com/msameim181](https://twitter.com/msameim181)
 - **Telegram**: [t.me/Msameim181](https://t.me/Msameim181)
 - **Spotify**: [Jack](https://open.spotify.com/user/1pe3mgooa5zk61axkq7v8q355)
 

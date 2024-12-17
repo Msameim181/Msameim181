@@ -19,14 +19,13 @@ Welcome to my GitHub! I'm a **Lead Back-end Developer** and **DevOps Engineer** 
 - Designed a **bilingual voice-enabled chatbot** serving 300+ users with a 3-second response time, scaling to support **10,000 users**.
 - Engineered an AI chatbot capable of handling **10 million concurrent users** with Kubernetes and Nginx.
 
-### 🤖 AI Innovations
-- Developed ParsChat, an **AI assistant** for customer service and QA, boosting efficiency by **30%** and reducing response time by **50%**.
-- Enhanced the NeuronJ plugin for neuroscience research, increasing data throughput by **20%** and achieving precision in neuron masking.
-
 ### 🧠 NLP Solutions
+- Developed ParsChat, an **AI assistant** for customer service and QA, boosting efficiency by **30%** and reducing response time by **50%**.
 - Created LLM-based assistant systems integrated with **Microsoft Teams** and other platforms.
 - Architected **OneUpBot**, a high-capacity AI bot managing **1M requests/hour**.
 
+### 🤖 AI Innovations
+- Enhanced the NeuronJ plugin for neuroscience research, increasing data throughput by **20%** and achieving precision in neuron masking.
 ---
 
 ## 🛠️ My Toolbox
@@ -39,9 +38,8 @@ Welcome to my GitHub! I'm a **Lead Back-end Developer** and **DevOps Engineer** 
 ---
 
 ## 🌐 Let's Connect
-- **Portfolio**: [msameim181.github.io](https://msameim181.github.io/)
+- **Website**: [msameim181.github.io](https://msameim181.github.io/)
 - **LinkedIn**: [linkedin.com/in/msameim181](https://www.linkedin.com/in/msameim181/)
-- **GitHub**: [github.com/Msameim181](https://github.com/Msameim181)
 - **Email**: 9259samei@gmail.com
 - **Twitter**: [twitter.com/msameim181](https://twitter.com/msameim181)
 - **Telegram**: [t.me/Msameim181](https://t.me/Msameim181)

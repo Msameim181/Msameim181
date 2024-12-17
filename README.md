@@ -44,7 +44,6 @@ Welcome to my GitHub! I'm a **Lead Back-end Developer** and **DevOps Engineer** 
 - **GitHub**: [github.com/Msameim181](https://github.com/Msameim181)
 - **Email**: 9259samei@gmail.com
 - **Twitter**: [twitter.com/msameim181](https://twitter.com/msameim181)
-- **ResearchGate**: [researchgate.net/profile/Mahdi_Samei](https://www.researchgate.net/profile/Mahdi_Samei)
 - **Telegram**: [t.me/Msameim181](https://t.me/Msameim181)
 - **Spotify**: [Jack](https://open.spotify.com/user/1pe3mgooa5zk61axkq7v8q355)
 

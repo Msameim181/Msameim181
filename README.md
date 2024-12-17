@@ -1,36 +1,63 @@
+# Hi there! 👋 I'm Mohammad Mahdi
 
-## Hey 👋
+ > But I prefer Mahdi or Jack :).
 
-My name is Mohammad Mahdi, But I perfer Mahdi or Jack :wink:.
+Welcome to my GitHub! I'm a **Lead Back-end Developer** and **DevOps Engineer** passionate about crafting scalable systems and innovative AI-driven solutions. With a strong background in **AI** and backend development, I specialize in turning complex problems into robust, high-performance applications.
 
-I used to be a web developer, but now:
-- Image processing specialist
-- Machine learning engineer
-- ML back-end engineer
+---
 
-- I also love UX and absolutly enjoy solve problems and make big dreams more real.
+## 🚀 About Me
+- 🌟 **Back-end Development**: Expertise in Python frameworks like **FastAPI** and **Django**, with a focus on building efficient and secure systems.
+- 💡 **AI Enthusiast**: Skilled in **image processing** (applied to healthcare) and **NLP**, including chatbots, **LLMs**, and intelligent assistance systems.
+- ⚙️ **DevOps Excellence**: Proficient in **Docker**, **CI/CD**, and orchestrating scalable deployments with tools like **Nginx** and **Kubernetes**.
+- 🎓 **Academic Background**: M.Sc. in Artificial Intelligence with a thesis on **Bone Age Assessment for Pediatric Patients**.
 
-As it should be, I'm a full-time learner and hungry to learn more, experience more. So ...
+---
+
+## 💼 What I've Built
+### 📈 Scalable Systems
+- Designed a **bilingual voice-enabled chatbot** serving 300+ users with a 3-second response time, scaling to support **10,000 users**.
+- Engineered an AI chatbot capable of handling **10 million concurrent users** with Kubernetes and Nginx.
+
+### 🤖 AI Innovations
+- Developed ParsChat, an **AI assistant** for customer service and QA, boosting efficiency by **30%** and reducing response time by **50%**.
+- Enhanced the NeuronJ plugin for neuroscience research, increasing data throughput by **20%** and achieving precision in neuron masking.
+
+### 🧠 NLP Solutions
+- Created LLM-based assistant systems integrated with **Microsoft Teams** and other platforms.
+- Architected **OneUpBot**, a high-capacity AI bot managing **1M requests/hour**.
+
+---
+
+## 🛠️ My Toolbox
+- **Languages**: Python, Go, SQL
+- **Frameworks**: FastAPI, Django, RASA
+- **Tools**: Docker, Kubernetes, PostgreSQL, Redis, CI/CD
+- **AI/ML**: PyTorch, Deep Learning, Optimization
+- **Industry Knowledge**: Healthcare Systems, Product Design, IoT
+
+---
+
+## 🌐 Let's Connect
+- **Portfolio**: [msameim181.github.io](https://msameim181.github.io/)
+- **LinkedIn**: [linkedin.com/in/msameim181](https://www.linkedin.com/in/msameim181/)
+- **GitHub**: [github.com/Msameim181](https://github.com/Msameim181)
+- **Email**: 9259samei@gmail.com
+- **Twitter**: [twitter.com/msameim181](https://twitter.com/msameim181)
+- **ResearchGate**: [researchgate.net/profile/Mahdi_Samei](https://www.researchgate.net/profile/Mahdi_Samei)
+- **Telegram**: [t.me/Msameim181](https://t.me/Msameim181)
+- **Spotify**: [Jack](https://open.spotify.com/user/1pe3mgooa5zk61axkq7v8q355)
+
+---
+
+### 🌟 Final Thoughts
+I believe in using technology to empower people and solve real-world problems. If you're working on an exciting project or want to collaborate on AI, healthcare, or scalable backend systems, let's connect! Together, we can create something amazing. 🚀
 
 > "Let's make it real what is more like dreams."
 
-#### My Skills are:
- - Python, PyTorch, OpenCV, RestAPI, FastAPI, TensorFlow
- - Linux, Docker, Git
- - And some Management skills
 
-So feel free to contact me, let's have a chat with a cup of tea. 
-
-**Get in touch with me:**
-- [Mail](mailto:9259samei@gmail.com) 
-- [LinkedIn](https://www.linkedin.com/in/msameim181/)
-- [Twitter](https://twitter.com/msameim181)
-- [Telegram](https://t.me/Msameim181)
-- [Spotify](https://open.spotify.com/user/mohmahsamei7899)
-
-
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=msameim181&theme=github_dark&count_private=true&show_icons=true&hide_rank=false" alt="Mohammad Mahdi's github stats" /> <br/>
-  
+  -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msameim181&theme=github_dark&hide=html&layout=compact&line_height=51&langs_count=9&exclude_repo=comp426,Redventures-Movie-Quotes&card_width=445" alt="Mohammad Mahdi's Top Langs" />
 </p> -->

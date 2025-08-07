@@ -30,8 +30,8 @@ Welcome to my GitHub! I'm a **Lead Back-end Developer** and **DevOps Engineer** 
 
 ## 🛠️ My Toolbox
 - **Languages**: Python, Go, SQL
-- **Frameworks**: FastAPI, Django, RASA
-- **Tools**: Docker, Kubernetes, PostgreSQL, Redis, CI/CD
+- **Frameworks**: FastAPI, Django
+- **Tools**: Docker, Kubernetes, PostgreSQL, Redis, CI/CD, n8n
 - **AI/ML**: PyTorch, Deep Learning, Optimization
 - **Industry Knowledge**: Healthcare Systems, Product Design, IoT
 

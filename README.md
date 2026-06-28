@@ -2,38 +2,7 @@
 
  > But I prefer Mahdi or Jack :).
 
-Welcome to my GitHub! I'm a **Lead Back-end Developer** and **DevOps Engineer** passionate about crafting scalable systems and innovative AI-driven solutions. With a strong background in **AI** and backend development, I specialize in turning complex problems into robust, high-performance applications.
-
----
-
-## 🚀 About Me
-- 🌟 **Back-end Development**: Expertise in Python frameworks like **FastAPI** and **Django**, with a focus on building efficient and secure systems.
-- 💡 **AI Enthusiast**: Skilled in **image processing** (applied to healthcare) and **NLP**, including chatbots, **LLMs**, and intelligent assistance systems.
-- ⚙️ **DevOps Excellence**: Proficient in **Docker**, **CI/CD**, and orchestrating scalable deployments with tools like **Nginx** and **Kubernetes**.
-- 🎓 **Academic Background**: M.Sc. in Artificial Intelligence with a thesis on **Bone Age Assessment for Pediatric Patients**.
-
----
-
-## 💼 What I've Built
-### 📈 Scalable Systems
-- Designed a **bilingual voice-enabled chatbot** serving 300+ users with a 3-second response time, scaling to support **10,000 users**.
-- Engineered an AI chatbot capable of handling **10 million concurrent users** with Kubernetes and Nginx.
-
-### 🧠 NLP Solutions
-- Developed ParsChat, an **AI assistant** for customer service and QA, boosting efficiency by **30%** and reducing response time by **50%**.
-- Created LLM-based assistant systems integrated with **Microsoft Teams** and other platforms.
-- Architected **OneUpBot**, a high-capacity AI bot managing **1M requests/hour**.
-
-### 🤖 AI Innovations
-- Enhanced the NeuronJ plugin for neuroscience research, increasing data throughput by **20%** and achieving precision in neuron masking.
----
-
-## 🛠️ My Toolbox
-- **Languages**: Python, Go, SQL
-- **Frameworks**: FastAPI, Django
-- **Tools**: Docker, Kubernetes, PostgreSQL, Redis, CI/CD, n8n
-- **AI/ML**: PyTorch, Deep Learning, Optimization
-- **Industry Knowledge**: Healthcare Systems, Product Design, IoT
+Welcome to my GitHub! I’m an AI MSc graduate who has been working in software development and designing back-end and ML systems for the past seven years. Currently, I’m juggling backend development with launching my own startup, where I get to create beautiful, ready-to-use solutions. See more on my personal [website](https://msameim181.github.io/).
 
 ---
 

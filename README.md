@@ -6,7 +6,7 @@ Welcome! I’m an AI MSc graduate and a Software Engineer with over seven years 
 
 ---
 
-## 🌐 Did you want to find me? here it is:
+## 🌐 Did you wanna find me? here it is:
 - **Website**: [msameim181.github.io](https://msameim181.github.io/)
 - **LinkedIn**: [linkedin.com/in/msameim181](https://www.linkedin.com/in/msameim181/)
 - **Telegram**: [t.me/Msameim181](https://t.me/Msameim181)

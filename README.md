@@ -1,21 +1,17 @@
-# Hi there! 👋 I'm Mohammad Mahdi
+# Hi there! 👋 I'm Mahdi
 
- > But I prefer Mahdi or Jack :).
+ > aka Jack :)
 
-Welcome to my GitHub! I’m an AI MSc graduate who has been working in software development and designing back-end and ML systems for the past seven years. Currently, I’m juggling backend development with launching my own startup, where I get to create beautiful, ready-to-use solutions. See more on my personal [website](https://msameim181.github.io/).
+Welcome! I’m an AI MSc graduate and a Software Engineer with over seven years of experience. Anyway, I love meeting new ideas and talking to people, hearing their stories. You know how to find me.
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Did you want to find me? here it is:
 - **Website**: [msameim181.github.io](https://msameim181.github.io/)
 - **LinkedIn**: [linkedin.com/in/msameim181](https://www.linkedin.com/in/msameim181/)
 - **Telegram**: [t.me/Msameim181](https://t.me/Msameim181)
-- **Spotify**: [Jack](https://open.spotify.com/user/1pe3mgooa5zk61axkq7v8q355)
 
 ---
-
-### 🌟 Final Thoughts
-I believe in using technology to empower people and solve real-world problems. If you're working on an exciting project or want to collaborate on AI, healthcare, or scalable backend systems, let's connect! Together, we can create something amazing. 🚀
 
 > "Let's make it real what is more like dreams."
 
